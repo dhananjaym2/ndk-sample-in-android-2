@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ndk.sample.in.android</string>
+    <string name="CallLibraryMethod">Call Library Method</string>
+</resources>
